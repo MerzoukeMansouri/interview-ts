@@ -3,6 +3,9 @@
 This repository is designed for interview preparation, focusing on solving algorithmic problems and practicing coding challenges. 
 It includes a simple setup for running tests to validate solutions in real-time.
 
+
+[Share this URL to simplify your interview](https://stackblitz.com/~/github.com/MerzoukeMansouri/interview-ts)
+
 ## Exercices
 
 1. **`src/sum2/sum2.ts`**:
