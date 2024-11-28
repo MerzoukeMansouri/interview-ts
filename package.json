@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Simple interview technical tests",
   "scripts": {
-    "test": "jest --watchAll"
+    "test:watch": "jest --watchAll",
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
